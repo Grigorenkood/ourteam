@@ -1,0 +1,103 @@
+body{
+
+}
+
+h1{
+    margin-left: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.container{
+    
+    
+}
+.NARTOV{
+    width: 285px;
+    height: 425px;
+    background-color: white;
+    margin-left: 30px;
+
+    border-radius: 5%;
+    box-shadow: black 0 0 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+img{
+    border-radius: 5%;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+div{
+    display: inline-block;
+    margin: 10px
+}
+.shmakov{
+height: 415px;
+width: 285px;
+margin-left: 530px;
+background-color: white;
+box-shadow: black 0 0 10px;
+border-radius: 5%;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.border{
+    object-fit: cover;
+}
+.Fateev{
+    height: 415px;
+    width: 285px;
+    box-shadow:black 0 0 10px;
+    text-align: center;
+    border-radius: 5%;
+    margin-left:530px ;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.Naprienko{
+    height: 415px;
+    width: 285px;
+    box-shadow:black 0 0 10px;
+    text-align: center;
+    border-radius: 5%;
+    margin-left:530px ;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+  
+}
+.Maleshev{
+    height: 415px;
+    width: 285px;
+    box-shadow:black 0 0 10px;
+    text-align: center;
+    border-radius: 5%;
+    margin-left:530px ;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.andreev{
+    height: 415px;
+    width: 285px;
+    box-shadow:black 0 0 10px;
+    text-align: center;
+    border-radius: 5%;
+    margin-left:530px ;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
